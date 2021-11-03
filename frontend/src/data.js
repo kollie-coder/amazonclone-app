@@ -1,6 +1,7 @@
 const data = {
     products: [
     {
+        
         _id:'1',
          name:'DELL INSPIRON 3000 SERIES',
          category:'LAPTOP',
